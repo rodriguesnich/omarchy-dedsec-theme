@@ -1,0 +1,18 @@
+# DedSec overlay - lock hacker baseado em dedsec3 #050407 / #CBF705 / #418f67
+
+[lock]
+background       = "#050407"
+background-alpha = 0.85
+text             = "#CBF705"
+placeholder      = "#88a406"
+text-error       = "#EF4444"
+border           = "#CBF705"
+border-active    = "#CBF705"
+border-error     = "#EF4444"
+border-alpha     = 1.0
+selection        = "#418f67"
+selection-alpha  = 0.45
+
+[hyprland]
+active-border            = "#418f67"
+active-border-foreground = "#CBF705"
