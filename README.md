@@ -7,8 +7,8 @@
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<user>/omarchy-dedsec-theme.git
-# ou menu: Super+Space > Install > Style > Theme > colar URL
+omarchy theme install https://github.com/rodriguesnich/omarchy-dedsec-theme.git
+# ou menu: Super+Alt+Space > Install > Style > Theme > colar URL
 ```
 
 ## O que tematiza
